@@ -1,0 +1,27 @@
+{
+  "name": "expressmysql",
+  "version": "1.0.0",
+  "description": "desafio express e mysql",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "lint": "eslint \"**/*.js\" --ignore-pattern node_modules/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlencarAvelar/Express-MySQL.git"
+  },
+  "author": "Alencar Avelar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlencarAvelar/Express-MySQL/issues"
+  },
+  "homepage": "https://github.com/AlencarAvelar/Express-MySQL#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
