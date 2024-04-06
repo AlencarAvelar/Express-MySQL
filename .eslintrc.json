@@ -10,8 +10,9 @@
     },
     
     "rules": {
+        "object-curly-spacing": 0,
         "new-cap": 0,
-        "linebreak-style": ["error", "windows"]
+        "space-before-function-paren": 0
     }
        
 }
