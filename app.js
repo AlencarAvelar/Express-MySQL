@@ -1,3 +1,8 @@
+const usersRouter = require('./routes/users');
+const clientesRouter = require('./routes/clientes');
+app.use('/users', usersRouter);
+app.use('/clientes', clientesRouter);
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
