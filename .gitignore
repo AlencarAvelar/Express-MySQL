@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+MYSQL_HOST=localhost
+MYSQL_USER=express mysql
+MYSQL_PASS=password12345
+MYSQL_DB=backend-ii-express-mysql
+MYSQL_PORT=3306
