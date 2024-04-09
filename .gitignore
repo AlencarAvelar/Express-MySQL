@@ -134,3 +134,6 @@ MYSQL_USER=express mysql
 MYSQL_PASS=password12345
 MYSQL_DB=backend-ii-express-mysql
 MYSQL_PORT=3306
+
+
+npm/
