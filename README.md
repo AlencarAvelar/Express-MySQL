@@ -1,5 +1,4 @@
 # Express-MySQL
-# Express-MySQL
 
 Este projeto é uma aplicação Node.js utilizando Express e MySQL para gerenciamento de clientes e produtos. Ele segue uma arquitetura MVC, com rotas, controllers, serviços, middlewares e integração com banco de dados.
 
@@ -99,4 +98,4 @@ npm install express mysql morgan body-parser pug
 Alencar Avelar
 
 ## Licença
-Consulte o arquivo LICENSE para mais informações.
+MIT license 
